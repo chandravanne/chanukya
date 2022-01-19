@@ -1,1 +1,2 @@
-# This is smaple commit for the file b.txt
+This is chanukya reddy 
+
